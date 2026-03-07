@@ -16,7 +16,7 @@ This analysis answers the following key business questions:
 
 Initial data validation and exploratory analysis notes can be found [here](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/Intital_Analysis%20.xlsx)
 
-The SQL scripts covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found [here][https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/queries.sql](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/queries.sql)
+The SQL scripts covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found [here][https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/queries.sql]
 
 
 
