@@ -93,6 +93,8 @@ FROM orders
 GROUP BY region
 )
 
+
+	
 --2 Profitabilty
 
 CREATE TABLE profitability_by_region AS(
@@ -158,7 +160,7 @@ ORDER BY return_rate DESC
 )
 
 
-
+--Final analysis ready tables
 
 SELECT*
 FROM demand_by_region
@@ -172,6 +174,7 @@ SELECT*
 FROM return_rate_region
 SELECT*
 FROM return_rate_category
+
 
 
 
