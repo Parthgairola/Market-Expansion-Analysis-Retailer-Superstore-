@@ -13,7 +13,12 @@ This analysis answers the following key business questions:
 - **Discount Strategy Analysis:** Are we relying too heavily on discounts to drive sales?
 - **Category Performance Analysis:** Which product categories should be prioritized in the selected region?
 
-The SQL scripts covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found here (queries.sql)
+
+Initial data validation and exploratory analysis notes can be found [here](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/Intital_Analysis%20.xlsx)
+
+The SQL scripts covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found [here][https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/queries.sql](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/queries.sql)
+
+
 
 # Data Structure & Initial Checks
 
