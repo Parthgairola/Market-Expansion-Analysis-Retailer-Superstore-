@@ -22,7 +22,7 @@ The SQL scripts covering database setup, data validation, and exploratory analys
 
 # Dataset & Initial Checks
 
-Dataset Used : Sample Superstore , 
+Dataset Used : Superstore Sales , 
 You can Access it from : https://public.tableau.com/app/learn/sample-data
 
 The dataset used for this analysis contains **order-level transaction data and product return information**.
