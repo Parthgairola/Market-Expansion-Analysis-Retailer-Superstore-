@@ -13,7 +13,7 @@ This analysis answers the following key business questions:
 - **Discount Strategy Analysis:** Are we relying too heavily on discounts to drive sales?
 - **Category Performance Analysis:** Which product categories should be prioritized in the selected region?
 
-The SQL scripts covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found here (./queries.sql)
+The SQL scripts covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found here (queries.sql)
 
 # Data Structure & Initial Checks
 
