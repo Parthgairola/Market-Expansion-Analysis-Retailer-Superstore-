@@ -16,7 +16,7 @@ This analysis answers the following key business questions:
 
 The **Analytics Requirement Document** and initial exploratory analysis notes can be found [here](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/ARD%20and%20Analysis.xlsx)
 
-The **SQL scripts **covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found [here](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/queries.sql)
+The **SQL scripts**covering database setup, data validation, and exploratory analysis tables used to support this analysis can be found [here](https://github.com/Parthgairola/Market-Expansion-Analysis-Retailer-Superstore-/blob/main/queries.sql)
 
 
 
