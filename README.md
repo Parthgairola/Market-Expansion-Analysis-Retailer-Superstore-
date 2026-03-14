@@ -74,7 +74,7 @@ Considering demand potential, profitability improvement opportunities, and categ
 - One likely explanation is **aggressive discounting or pricing inefficiencies** in that region.
 - Improving margins in Central could unlock significant profitability if expansion occurs.
 
-### Discount Strategy Analysis
+### Discount Impact Analysis
 
 ![](images/discount_impact.png)
 
