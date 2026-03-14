@@ -14,14 +14,6 @@ Nexus Retail is a fictional retail superstore operating across the **United Stat
 
 Leadership wants to determine **which single region should be prioritized for expansion next year**. The decision should be based on a combination of **customer demand, profitability, discount dependency, and category performance**.
 
-This analysis answers the following key business questions:
-
-- **Demand Analysis:** Which region has the strongest demand to support expansion?
-- **Profitability Analysis:** Are there regions generating revenue but failing to generate profit?
-- **Discount Strategy Analysis:** Are we relying too heavily on discounts to drive sales?
-- **Category Performance Analysis:** Which product categories should be prioritized in the selected region?
-
-
 # Dataset & Initial Checks
 
 Dataset Used : Superstore Sales , 
