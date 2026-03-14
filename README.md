@@ -99,7 +99,7 @@ Considering demand potential, profitability improvement opportunities, and categ
 
 ### Return Performance
 
-<img width="1867" height="802" alt="image" src="https://github.com/user-attachments/assets/f16d1993-f029-41e6-a70c-0e950ca682d8" />
+![](images/return_rate.png)
 
 
 - The **West region shows the highest return rates across all categories**, with total returned revenue of **$107,483 (~4.6% of total revenue)**.
