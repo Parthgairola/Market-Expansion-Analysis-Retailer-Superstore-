@@ -60,7 +60,7 @@ Considering demand potential, profitability improvement opportunities, and categ
 
 ### Demand Analysis
 
-<img width="1616" height="773" alt="image" src="https://github.com/user-attachments/assets/22372466-3dd2-4129-8467-e2f07d88eadf" />
+![](images/demand_analysis.png)
 
 
 - **West and East generate the highest sales**, indicating the strongest customer demand in the dataset.
@@ -70,7 +70,7 @@ Considering demand potential, profitability improvement opportunities, and categ
 
 ### Profitability Analysis
 
-<img width="1449" height="776" alt="image" src="https://github.com/user-attachments/assets/5bc00efd-e558-4415-a6d2-02a8b25ea817" />
+![](images/profitability.png)
 
 
 - While Central generates strong revenue, it shows the **lowest profit margins (~8%)**, which is significantly lower than **West and East (~15%)**.
@@ -80,7 +80,7 @@ Considering demand potential, profitability improvement opportunities, and categ
 
 ### Discount Strategy Analysis
 
-<img width="1869" height="801" alt="image" src="https://github.com/user-attachments/assets/c951b8cf-48a2-4f8c-8141-bbd481689bad" />
+![](images/discount_impact.png)
 
 
 - **High and medium discount levels often lead to negative profit margins**, indicating that heavy discounting is eroding profitability.
@@ -90,7 +90,7 @@ Considering demand potential, profitability improvement opportunities, and categ
 
 ### Category Performance
 
-<img width="1850" height="776" alt="image" src="https://github.com/user-attachments/assets/3ab0cf3f-3827-4650-84ce-cedb9ed1c453" />
+![](images/category_performance.png)
 
 
 - **Technology performs the strongest across all regions**, combining high sales with strong profit margins.
@@ -99,7 +99,7 @@ Considering demand potential, profitability improvement opportunities, and categ
 
 ### Return Performance
 
-![](images/region_wise_return.png)
+![](images/return_analysis.png)
 
 
 - The **West region shows the highest return rates across all categories**, with total returned revenue of **$107,483 (~4.6% of total revenue)**.
