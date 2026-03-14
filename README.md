@@ -4,6 +4,10 @@
 Defines the business problem, stakeholder questions, and initial analysis guiding this project.  
 [View ARD](https://docs.google.com/spreadsheets/d/1PDW0-wBs-FDuXeIbUjCwdjpPBzmyh_QR-bLaqgpOAmE/edit?usp=sharing)
 
+**Tableau Dashboard:** 
+Interactive visualization of demand, profitability, and return trends across regions to support the market expansion decision.  
+[View Dashboard](https://public.tableau.com/views/market_expansion/Dashboard6?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # Project Background
 
 Nexus Retail is a fictional retail superstore operating across the **United States and Canada**, selling products across multiple **regions and categories including Technology, Office Supplies, and Furniture**.
